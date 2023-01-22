@@ -1,0 +1,37 @@
+.img-carousel-um {
+    object-fit: cover;
+    object-position: 0 70%;
+    height: 500px;
+}
+
+.img-carousel-dois {
+    object-fit: cover;
+    height: 500px;
+}
+
+.fonte-titulo {
+    font-family: 'Pacifico', cursive;
+}
+
+.cor-especial {
+    color: darkred;
+}
+
+.botao-receita {
+    background-color: darkred;
+    color: white;
+}
+
+.borda-cor {
+    border-color: darkred;
+}
+
+.card-position {
+    object-fit: cover;
+    // object-position: 0 70%;
+    height: 200px;
+}
+
+.article {
+    max-width: 18rem;
+}
